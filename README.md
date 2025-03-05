@@ -1085,6 +1085,16 @@ else
 fi
 ```
 ## OUTPUT 
+![Screenshot from 2025-03-05 22-24-09](https://github.com/user-attachments/assets/b186e0ac-8f77-4856-9e93-f3187bdc2f71)
+![Screenshot from 2025-03-05 22-33-11](https://github.com/user-attachments/assets/08e2c72f-5c09-43a3-a103-45c4e4b72148)
+![Screenshot from 2025-03-05 22-33-39](https://github.com/user-attachments/assets/d6c09abf-b16f-4879-baf9-bc0994894c66)
+![Screenshot from 2025-03-05 22-51-43](https://github.com/user-attachments/assets/2a789ca9-deac-47ca-b461-fefb504ff7f2)
+![Screenshot from 2025-03-05 22-52-16](https://github.com/user-attachments/assets/4c74f904-04c4-474f-b74f-b81a76f257a6)
+
+
+
+
+
 
 
 # RESULT:
